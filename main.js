@@ -153,7 +153,7 @@ if (logoutBtn) {
 
         localStorage.removeItem("isLoggedIn");
 
-        window.location.replace("login.html");
+        window.location.replace("index.html");
 
     });
 
@@ -236,7 +236,7 @@ if (
 
 ) {
 
-    window.location.replace("login.html");
+    window.location.replace("index.html");
 
 }
 
